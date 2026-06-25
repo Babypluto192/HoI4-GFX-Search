@@ -1,6 +1,6 @@
 # HoI4 GFX Search
 
-This tool helps you easily find GFX from unmodded (vanilla) Hearts of Iron 4 1.15.
+This tool helps you easily find GFX from unmodded (vanilla) Hearts of Iron 4 1.19.
 
 All images are © Copyright Paradox Development Studio. Hearts of Iron® is a registered trademark of Paradox Interactive. This tool is not affiliated in any way with Paradox Development Studio or Paradox Interactive.
 
